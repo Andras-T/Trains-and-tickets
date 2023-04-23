@@ -1,0 +1,7 @@
+TESZT: 
+M1MI1M: 18, 1, 60; 
+ASD123: 
+DSD454: 
+Tenkes: 18, 1, 50; 
+Katica: 
+teszt: 
